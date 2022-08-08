@@ -14,7 +14,9 @@ Minhas favoritas são:
   &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
   &nbsp;
-<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" /> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="35px" /> 
+    &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" /> 
 </p>
 
 
