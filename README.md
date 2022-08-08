@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Estou atualmente trabalhando como Full Stack Jr..
-- 🌱 Estou estudando atualmente Front End com React Native
+- 🔭 Estou atualmente trabalhando como Full Stack..
+- 🌱 Estou estudando atualmente Desenvolvimento Mobile Nativo, por meio do Android com Kotlin
 
 Sou apaixonado por tecnologia e todas as coisas maravilhosas que ela proporciona
 Minhas favoritas são:
