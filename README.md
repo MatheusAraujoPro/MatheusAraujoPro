@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Estou atualmente trabalhando como Full Stack..
+- 🔭 Estou atualmente trabalhando como Android Developer..
 - 🌱 Estou estudando atualmente Desenvolvimento Mobile Nativo, por meio do Android com Kotlin
 
 Sou apaixonado por tecnologia e todas as coisas maravilhosas que ela proporciona
