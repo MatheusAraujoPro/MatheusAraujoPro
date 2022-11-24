@@ -1,13 +1,11 @@
-### Eai beleza? Sou Matheus de Araújo 👋
+### Hey whats up? I'm Matheus de Araújo 👋
 
 
+- 🔭 I'm currently work with Android Developer..
+- 🌱 I'm studing currently some anything about Software Developer..
 
-
-- 🔭 Estou atualmente trabalhando como Android Developer..
-- 🌱 Estou estudando atualmente Desenvolvimento Mobile Nativo, por meio do Android com Kotlin
-
-Sou apaixonado por tecnologia e todas as coisas maravilhosas que ela proporciona
-Minhas favoritas são:
+I'm in love to tecnology and all of wonderfull things that she provides
+This are my favorites:
 
 <p>  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
