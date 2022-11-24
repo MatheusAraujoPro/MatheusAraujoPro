@@ -4,7 +4,7 @@
 - 🔭 I'm currently work with Android Developer..
 - 🌱 I'm studing currently some anything about Software Developer..
 
-I'm in love to tecnology and all of wonderfull things that she provides
+I'm in love to tecnology and all of wonderfull things that she provides.<br>
 This are my favorites:
 
 <p>  
