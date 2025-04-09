@@ -1,21 +1,18 @@
-### Hey whats up? I'm Matheus de Araújo 👋
+# Hey whats up? I'm Matheus de Araújo 👋
 
 
-- 🔭 I'm currently work with Android Developer..
-- 🌱 I'm studing currently some anything about Software Developer..
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mattheussaraujo/)
 
-I'm in love to tecnology and all of wonderfull things that she provides.<br>
-This are my favorites:
+## About Me
 
-<p>  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
-  &nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
-  &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="35px" /> 
-    &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="35px" /> 
-</p>
+I've worked as 🤖 Android Developer since 2022. I'm very passionte about new challenges 🤺 . I like classic rock music so much 🎸. I love read fantasy book like The Lord of the Rings 📚.
 
+--
+
+## Personal Projects
+
+| Repo                                                                                     | Description                                                                         |
+|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|
+| [Fin_helper_app](https://github.com/MatheusAraujoPro/fin_helper_app)                                | My Personal finance assistent                     
 
 
