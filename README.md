@@ -1,4 +1,4 @@
-# Hey whats up? I'm Matheus de Araújo 👋
+# I'm Matheus de Araújo 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mattheussaraujo/)
